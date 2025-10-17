@@ -1,0 +1,14 @@
+{
+    "Diary": true,
+    "User": true,
+    "Bulletin": true,
+    "Course": true,
+    "Lesson": true,
+    "Batch": true,
+    "Event": true,
+    "BoardNotes": true,
+    "Badge": true,
+    "Quiz": true,
+    "Team": true,
+    "Exam": true
+}
